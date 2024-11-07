@@ -51,3 +51,5 @@
 [[lentes delgados]]
 
 [[formulas para el primer parcial]]
+
+[[formulas parcial 3]]
