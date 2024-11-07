@@ -34,6 +34,8 @@ $$
 &\large{P_r = P_{r\pi} + P_{r\sigma}} \\
 &\large{P_t = P_{t\pi} + P_{t\sigma}} \\ 
 \\
+&\Large{\epsilon_0 = 8.85*10^{-12} [F/m]}
+\\
 &\large{P_{i\pi} = \frac{1}{2} c \epsilon (E_{i\pi})^2 A} 
 \\
 \\
