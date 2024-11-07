@@ -36,12 +36,16 @@ $$
 \\
 &\large{P_{i\pi} = \frac{1}{2} c \epsilon (E_{i\pi})^2 A} 
 \\
-&\large{P_{i\sigma} = \frac{1}{2} c \epsilon (E_{i\sigma})^2 A}
+\\
+&\large{P_{i\sigma} = \frac{1}{2} c \epsilon (E_{i\sigma})^2 A} 
+\\
+\\
 &\large{Reflectancia = R^2 = \frac{P_r}{P_i}} \\ \\
 &\large{P_r = R^2 P_i} \\ \\
 &\large{P_{r\sigma} = R_\pi ^2 P_{i\pi}} \\ \\
 &\large{P_{r\sigma} = R_\sigma ^2 P_{i\sigma}}
-
+\\
+\\
 &\large{1 - Reflectancia = Trasmitancia} \\ \\
 &\large{1 - R^2 = Trasmitancia} \\ \\
 &\large{Trasmitancia = \frac{P_t}{P_i} = 1 - R^2} \\ \\
@@ -55,3 +59,4 @@ Ley de Brewster
 $$
 \large{\tan \theta_B = \frac{n_2}{n_1}}
 $$
+
