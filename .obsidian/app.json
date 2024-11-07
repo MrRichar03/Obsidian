@@ -1,0 +1,19 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "strictLineBreaks": false,
+  "readableLineLength": false,
+  "autoConvertHtml": false,
+  "autoPairBrackets": true,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
