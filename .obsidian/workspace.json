@@ -90,8 +90,47 @@
               "icon": "lucide-file",
               "title": "parser"
             }
+          },
+          {
+            "id": "656d5d34850bd8f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teoria-lenguajes/gramaticas de lenguajes de prog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gramaticas de lenguajes de prog"
+            }
+          },
+          {
+            "id": "de8fc0df7b8eea99",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-08 18.16.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-08 18.16.27.excalidraw"
+            }
+          },
+          {
+            "id": "d0f9597d3e548901",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-08 18.41.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-08 18.41.57.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -247,9 +286,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4c2d1899e3d296ef",
+  "active": "de8fc0df7b8eea99",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-08 18.41.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-08 18.16.27.excalidraw.md",
+    "teoria-lenguajes/gramaticas de lenguajes de prog.md",
     "teoria-lenguajes/gramaticas atribuidas.md",
+    "Quinto semestre uwu.md",
     "Indice teoría de lenguajes y lab.md",
     "teoria-lenguajes/simplificacion de GIC.md",
     "teoria-lenguajes/forma normal de chomsky FNC.md",
@@ -258,7 +301,6 @@
     "teoria-lenguajes/Segundo parcial(Virtual)-Ricardo-Medina.pdf",
     "teoria-lenguajes/Segundo parcial(Virtual).md",
     "teoria-lenguajes/Aspose.Words.cdaf62bd-b6fc-44b8-a2cc-c20a49f4e878.001.png",
-    "Quinto semestre uwu.md",
     "Excalidraw/Drawing 2024-11-08 16.36.57.excalidraw.md",
     "Excalidraw",
     "teoria-lenguajes/ejemplo forma polarización.md",
@@ -282,9 +324,6 @@
     "fisica-ondas/formacion de imagenes refraccion.md",
     "fisica-ondas/espejo concavo y convexo.md",
     "fisica-ondas/formacion de imagenes.md",
-    "fisica-ondas/ejemplo fibra optica.md",
-    "fisica-ondas/reflexion y refraccion de la luz.md",
-    "fisica-ondas/efecto doppler.md",
     "fisica-ondas",
     "pasted-images/Pasted image 20241103153719.png",
     "pasted-images/ef7590b4-3e97-456e-a82b-4e60add12b3c.png",
