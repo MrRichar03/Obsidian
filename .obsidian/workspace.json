@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "teoria-lenguajes/ejemplo forma polarización.md",
+                "file": "Indice teoría de lenguajes y lab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ejemplo forma polarización"
+              "title": "Indice teoría de lenguajes y lab"
             }
           }
         ],
@@ -192,9 +192,9 @@
   },
   "active": "df17f7aaf3e9f5bf",
   "lastOpenFiles": [
+    "teoria-lenguajes/ejemplo forma polarización.md",
     "fisica-ondas/seguimiento 3.md",
     "fisica-ondas/formulas parcial 3.md",
-    "teoria-lenguajes/ejemplo forma polarización.md",
     "fisica-ondas/plano de polarizacion.md",
     "fisica-ondas/Indice física de ondas.md",
     "fisica-ondas/attachments/Pasted image 20241107192424.png",
