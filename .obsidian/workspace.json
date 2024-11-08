@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,11 +218,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8868b98f94acc5e",
+  "active": "74af2e8f1e1d38d1",
   "lastOpenFiles": [
+    "fisica-ondas/formulas parcial 3.md",
     "seguimiento 3.md",
     "teoria-lenguajes/ejemplo forma polarización.md",
-    "fisica-ondas/formulas parcial 3.md",
     "fisica-ondas/plano de polarizacion.md",
     "fisica-ondas/Indice física de ondas.md",
     "attachments/Pasted image 20241107192424.png",
