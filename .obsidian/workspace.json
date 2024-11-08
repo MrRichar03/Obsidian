@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "df17f7aaf3e9f5bf",
+            "id": "acc1a157467b2385",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +33,48 @@
               },
               "icon": "lucide-file",
               "title": "gramaticas atribuidas"
+            }
+          },
+          {
+            "id": "97a4c0097bcf9eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teoria-lenguajes/simplificacion de GIC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "simplificacion de GIC"
+            }
+          },
+          {
+            "id": "1bd2c7a6662c4529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teoria-lenguajes/forma normal de chomsky FNC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "forma normal de chomsky FNC"
+            }
+          },
+          {
+            "id": "df17f7aaf3e9f5bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "teoria-lenguajes/forma normal de greibach FNG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "forma normal de greibach FNG"
             }
           },
           {
@@ -49,8 +91,7 @@
               "title": "parser"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,13 +247,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df17f7aaf3e9f5bf",
+  "active": "4c2d1899e3d296ef",
   "lastOpenFiles": [
-    "parser.md",
     "teoria-lenguajes/gramaticas atribuidas.md",
+    "Indice teoría de lenguajes y lab.md",
+    "teoria-lenguajes/simplificacion de GIC.md",
+    "teoria-lenguajes/forma normal de chomsky FNC.md",
+    "teoria-lenguajes/forma normal de greibach FNG.md",
+    "parser.md",
+    "teoria-lenguajes/Segundo parcial(Virtual)-Ricardo-Medina.pdf",
+    "teoria-lenguajes/Segundo parcial(Virtual).md",
+    "teoria-lenguajes/Aspose.Words.cdaf62bd-b6fc-44b8-a2cc-c20a49f4e878.001.png",
+    "Quinto semestre uwu.md",
     "Excalidraw/Drawing 2024-11-08 16.36.57.excalidraw.md",
     "Excalidraw",
-    "Indice teoría de lenguajes y lab.md",
     "teoria-lenguajes/ejemplo forma polarización.md",
     "fisica-ondas/seguimiento 3.md",
     "fisica-ondas/formulas parcial 3.md",
@@ -222,7 +270,6 @@
     "fisica-ondas/attachments/Pasted image 20241107192335.png",
     "fisica-ondas/attachments/Pasted image 20241107183636.png",
     "attachments",
-    "Quinto semestre uwu.md",
     "fisica-ondas/ecuaciones de maxwell.md",
     "teoria-lenguajes",
     "fisica-ondas/OEM.md",
@@ -238,17 +285,12 @@
     "fisica-ondas/ejemplo fibra optica.md",
     "fisica-ondas/reflexion y refraccion de la luz.md",
     "fisica-ondas/efecto doppler.md",
-    "fisica-ondas/ejemplo sistema dopple.md",
-    "fisica-ondas/pulsos.md",
-    "fisica-ondas/ondas en 3 dimensiones.md",
-    "fisica-ondas/ondas de presion y densidad en ondas estacionarias.md",
     "fisica-ondas",
     "pasted-images/Pasted image 20241103153719.png",
     "pasted-images/ef7590b4-3e97-456e-a82b-4e60add12b3c.png",
     "pasted-images/Pasted image 20241103162332.png",
     "pasted-images/Pasted image 20240813182331.png",
     "pasted-images/Pasted image 20241103153614.png",
-    "pasted-images/Pasted image 20241103120348.png",
     "pasted-images"
   ]
 }
